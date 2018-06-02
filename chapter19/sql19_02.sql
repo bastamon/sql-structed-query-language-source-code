@@ -1,0 +1,15 @@
+USE db_mysql
+GO
+DBCC SHRINKFILE (db_mysql, 2)
+
+
+ALTER DATABASE db_mysql
+SET RECOVERY SIMPLE
+go
+DBCC SHRINKFILE (db_mysql_Log, 1)
+go
+ALTER DATABASE db_mysql
+SET RECOVERY FULL
+
+
+

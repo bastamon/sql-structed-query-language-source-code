@@ -1,0 +1,8 @@
+E:\SQL结构化查询语言\光盘\chapter20\创建数据库\创建数据库\bin\Debug\创建数据库.exe
+E:\SQL结构化查询语言\光盘\chapter20\创建数据库\创建数据库\bin\Debug\创建数据库.pdb
+E:\SQL结构化查询语言\光盘\chapter20\创建数据库\创建数据库\obj\Debug\ResolveAssemblyReference.cache
+E:\SQL结构化查询语言\光盘\chapter20\创建数据库\创建数据库\obj\Debug\创建数据库.Form1.resources
+E:\SQL结构化查询语言\光盘\chapter20\创建数据库\创建数据库\obj\Debug\创建数据库.Properties.Resources.resources
+E:\SQL结构化查询语言\光盘\chapter20\创建数据库\创建数据库\obj\Debug\创建数据库.csproj.GenerateResource.Cache
+E:\SQL结构化查询语言\光盘\chapter20\创建数据库\创建数据库\obj\Debug\创建数据库.exe
+E:\SQL结构化查询语言\光盘\chapter20\创建数据库\创建数据库\obj\Debug\创建数据库.pdb

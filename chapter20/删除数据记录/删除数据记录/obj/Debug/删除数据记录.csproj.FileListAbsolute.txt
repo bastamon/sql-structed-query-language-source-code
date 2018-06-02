@@ -1,0 +1,8 @@
+E:\SQL结构化查询语言\光盘\chapter20\删除数据记录\删除数据记录\bin\Debug\删除数据记录.exe
+E:\SQL结构化查询语言\光盘\chapter20\删除数据记录\删除数据记录\bin\Debug\删除数据记录.pdb
+E:\SQL结构化查询语言\光盘\chapter20\删除数据记录\删除数据记录\obj\Debug\ResolveAssemblyReference.cache
+E:\SQL结构化查询语言\光盘\chapter20\删除数据记录\删除数据记录\obj\Debug\删除数据记录.Form1.resources
+E:\SQL结构化查询语言\光盘\chapter20\删除数据记录\删除数据记录\obj\Debug\删除数据记录.Properties.Resources.resources
+E:\SQL结构化查询语言\光盘\chapter20\删除数据记录\删除数据记录\obj\Debug\删除数据记录.csproj.GenerateResource.Cache
+E:\SQL结构化查询语言\光盘\chapter20\删除数据记录\删除数据记录\obj\Debug\删除数据记录.exe
+E:\SQL结构化查询语言\光盘\chapter20\删除数据记录\删除数据记录\obj\Debug\删除数据记录.pdb

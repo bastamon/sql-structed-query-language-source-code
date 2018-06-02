@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="db_business" Class="DataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=86673508zf;Initial Catalog=db_business;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="db_businessConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.职工" Member="职工">
+    <Type Name="职工">
+      <Column Name="职工ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="职工号" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="仓库号" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="姓名" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="性别" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="工资" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

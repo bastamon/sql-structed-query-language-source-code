@@ -1,0 +1,8 @@
+E:\SQL结构化查询语言\光盘\chapter20\排序视图中的数据信息\排序视图中的数据信息\bin\Debug\排序视图中的数据信息.exe
+E:\SQL结构化查询语言\光盘\chapter20\排序视图中的数据信息\排序视图中的数据信息\bin\Debug\排序视图中的数据信息.pdb
+E:\SQL结构化查询语言\光盘\chapter20\排序视图中的数据信息\排序视图中的数据信息\obj\Debug\ResolveAssemblyReference.cache
+E:\SQL结构化查询语言\光盘\chapter20\排序视图中的数据信息\排序视图中的数据信息\obj\Debug\排序视图中的数据信息.Form1.resources
+E:\SQL结构化查询语言\光盘\chapter20\排序视图中的数据信息\排序视图中的数据信息\obj\Debug\排序视图中的数据信息.Properties.Resources.resources
+E:\SQL结构化查询语言\光盘\chapter20\排序视图中的数据信息\排序视图中的数据信息\obj\Debug\排序视图中的数据信息.csproj.GenerateResource.Cache
+E:\SQL结构化查询语言\光盘\chapter20\排序视图中的数据信息\排序视图中的数据信息\obj\Debug\排序视图中的数据信息.exe
+E:\SQL结构化查询语言\光盘\chapter20\排序视图中的数据信息\排序视图中的数据信息\obj\Debug\排序视图中的数据信息.pdb

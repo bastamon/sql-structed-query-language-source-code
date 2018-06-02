@@ -1,0 +1,8 @@
+E:\SQL结构化查询语言\光盘\chapter20\动态查询多表信息\动态查询多表信息\bin\Debug\动态查询多表信息.exe
+E:\SQL结构化查询语言\光盘\chapter20\动态查询多表信息\动态查询多表信息\bin\Debug\动态查询多表信息.pdb
+E:\SQL结构化查询语言\光盘\chapter20\动态查询多表信息\动态查询多表信息\obj\Debug\ResolveAssemblyReference.cache
+E:\SQL结构化查询语言\光盘\chapter20\动态查询多表信息\动态查询多表信息\obj\Debug\动态查询多表信息.Form1.resources
+E:\SQL结构化查询语言\光盘\chapter20\动态查询多表信息\动态查询多表信息\obj\Debug\动态查询多表信息.Properties.Resources.resources
+E:\SQL结构化查询语言\光盘\chapter20\动态查询多表信息\动态查询多表信息\obj\Debug\动态查询多表信息.csproj.GenerateResource.Cache
+E:\SQL结构化查询语言\光盘\chapter20\动态查询多表信息\动态查询多表信息\obj\Debug\动态查询多表信息.exe
+E:\SQL结构化查询语言\光盘\chapter20\动态查询多表信息\动态查询多表信息\obj\Debug\动态查询多表信息.pdb

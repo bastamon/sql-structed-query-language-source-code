@@ -1,0 +1,9 @@
+E:\SQL结构化查询语言\光盘\chapter20\更新数据记录\更新数据记录\bin\Debug\更新数据记录.exe
+E:\SQL结构化查询语言\光盘\chapter20\更新数据记录\更新数据记录\bin\Debug\更新数据记录.pdb
+E:\SQL结构化查询语言\光盘\chapter20\更新数据记录\更新数据记录\obj\Debug\ResolveAssemblyReference.cache
+E:\SQL结构化查询语言\光盘\chapter20\更新数据记录\更新数据记录\obj\Debug\更新数据记录.Form1.resources
+E:\SQL结构化查询语言\光盘\chapter20\更新数据记录\更新数据记录\obj\Debug\更新数据记录.Form2.resources
+E:\SQL结构化查询语言\光盘\chapter20\更新数据记录\更新数据记录\obj\Debug\更新数据记录.Properties.Resources.resources
+E:\SQL结构化查询语言\光盘\chapter20\更新数据记录\更新数据记录\obj\Debug\更新数据记录.csproj.GenerateResource.Cache
+E:\SQL结构化查询语言\光盘\chapter20\更新数据记录\更新数据记录\obj\Debug\更新数据记录.exe
+E:\SQL结构化查询语言\光盘\chapter20\更新数据记录\更新数据记录\obj\Debug\更新数据记录.pdb
